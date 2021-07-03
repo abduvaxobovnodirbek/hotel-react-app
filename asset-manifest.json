@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/hotel1-react-project/static/css/main.d6336851.chunk.css",
+    "main.js": "/hotel1-react-project/static/js/main.e010c148.chunk.js",
+    "main.js.map": "/hotel1-react-project/static/js/main.e010c148.chunk.js.map",
+    "runtime-main.js": "/hotel1-react-project/static/js/runtime-main.92f0a9ff.js",
+    "runtime-main.js.map": "/hotel1-react-project/static/js/runtime-main.92f0a9ff.js.map",
+    "static/js/2.f7f7f691.chunk.js": "/hotel1-react-project/static/js/2.f7f7f691.chunk.js",
+    "static/js/2.f7f7f691.chunk.js.map": "/hotel1-react-project/static/js/2.f7f7f691.chunk.js.map",
+    "static/js/3.cc50f228.chunk.js": "/hotel1-react-project/static/js/3.cc50f228.chunk.js",
+    "static/js/3.cc50f228.chunk.js.map": "/hotel1-react-project/static/js/3.cc50f228.chunk.js.map",
+    "index.html": "/hotel1-react-project/index.html",
+    "static/css/main.d6336851.chunk.css.map": "/hotel1-react-project/static/css/main.d6336851.chunk.css.map",
+    "static/js/2.f7f7f691.chunk.js.LICENSE.txt": "/hotel1-react-project/static/js/2.f7f7f691.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hotel1-react-project/static/media/room-2.48c60181.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/hotel1-react-project/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/hotel1-react-project/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/hotel1-react-project/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/hotel1-react-project/static/media/details-4.f2053654.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/hotel1-react-project/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/hotel1-react-project/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/hotel1-react-project/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/hotel1-react-project/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/hotel1-react-project/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/hotel1-react-project/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/hotel1-react-project/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/hotel1-react-project/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/hotel1-react-project/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/hotel1-react-project/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/hotel1-react-project/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/hotel1-react-project/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/hotel1-react-project/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92f0a9ff.js",
+    "static/js/2.f7f7f691.chunk.js",
+    "static/css/main.d6336851.chunk.css",
+    "static/js/main.e010c148.chunk.js"
+  ]
+}
